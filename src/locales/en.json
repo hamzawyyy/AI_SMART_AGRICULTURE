@@ -1,0 +1,95 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "auth": {
+    "login_title": "Login",
+    "register_title": "Create New Account",
+    "email": "Email",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "full_name": "Full Name",
+    "role": "Account Type",
+    "farmer": "Farmer",
+    "trader": "Trader",
+    "exporter": "Exporter",
+    "login_btn": "Login",
+    "register_btn": "Create Account",
+    "forgot_password": "Forgot Password?",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?"
+  },
+  "ai": {
+    "disease_title": "Plant Disease Detection",
+    "quality_title": "Crop Quality Assessment",
+    "export_title": "Export Intelligence",
+    "environment_title": "Smart Environment (Simulation)",
+    "upload_image": "Upload Plant Image",
+    "analyze_btn": "Analyze",
+    "result": "Result",
+    "confidence": "Confidence",
+    "simulate_btn": "Generate Simulation Data",
+    "simulation_note": "This section uses simulated data, not real sensors"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Operation successful",
+    "save": "Save",
+    "cancel": "Cancel",
+    "back": "Back"
+  }
+  ,
+"about": {
+  "hero_title": "Smart Agriculture & Export Intelligence System",
+  "hero_desc": "An integrated system combining AI, computer vision, and machine learning to help farmers, traders, and exporters make better decisions",
+  "features_title": "System Features",
+  "team_title": "Our Team",
+  "tech_title": "Technologies Used",
+  "features": [
+    { "icon": "🌿", "title": "Plant Disease Detection", "description": "Upload a plant image and analyze it instantly with AI" },
+    { "icon": "⭐", "title": "Crop Quality Assessment", "description": "Automatically classify crops as Grade A / B / C based on image" },
+    { "icon": "🚢", "title": "Export Intelligence", "description": "Smart export recommendations for EU, Gulf, and Local markets" },
+    { "icon": "🌡️", "title": "Smart Environment", "description": "Analyze temperature, humidity, and soil moisture to predict plant health" },
+    { "icon": "🤖", "title": "AI Chatbot", "description": "Smart agricultural assistant supporting Arabic and English" },
+    { "icon": "☁️", "title": "Cloud Deployed", "description": "Available anytime, anywhere on the cloud" }
+  ],
+  "team": [
+    { "name": "Member 1", "role": "Computer Vision Lead — Disease Detection" },
+    { "name": "Member 2", "role": "Computer Vision Lead — Quality Assessment" },
+    { "name": "Member 3", "role": "ML Lead — Export Intelligence" },
+    { "name": "Member 4", "role": "ML Lead — Environment Analysis" },
+    { "name": "Member 5", "role": "NLP & Integration Lead" },
+    { "name": "Member 6", "role": "Frontend & Deployment Lead" }
+  ]
+},
+"landing": {
+  "hero_title_1": "Smart Agriculture",
+  "hero_title_2": "& Export Intelligence",
+  "hero_desc": "An integrated system combining AI, computer vision, and machine learning to help farmers, traders, and exporters",
+  "start_free": "Start Free",
+  "learn_more": "Learn More",
+  "stats": [
+    { "value": "95%", "label": "Disease Detection Accuracy" },
+    { "value": "3", "label": "Supported Export Markets" },
+    { "value": "5", "label": "AI Models" },
+    { "value": "2", "label": "Languages Supported" }
+  ],
+  "features_title": "System Features",
+  "features": [
+    { "icon": "🌿", "title": "Disease Detection", "description": "Instantly detect plant diseases from an image" },
+    { "icon": "⭐", "title": "Quality Assessment", "description": "Automatically classify crops as Grade A / B / C" },
+    { "icon": "🚢", "title": "Export Intelligence", "description": "Export recommendations for EU, Gulf, and Local markets" },
+    { "icon": "🌡️", "title": "Smart Environment", "description": "Analyze temperature, humidity, and soil data" },
+    { "icon": "🤖", "title": "AI Chatbot", "description": "Smart agricultural assistant supporting Arabic and English" },
+    { "icon": "☁️", "title": "Cloud Deployed", "description": "Available anytime, anywhere" }
+  ],
+  "cta_title": "Ready to Start?",
+  "cta_desc": "Join now and use the power of AI in your farming",
+  "cta_btn": "Create Free Account"
+}
+}
