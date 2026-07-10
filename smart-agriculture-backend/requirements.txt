@@ -1,0 +1,36 @@
+# ===== Backend =====
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+python-multipart
+pydantic-settings
+alembic
+numpy
+pillow
+onnxruntime
+pandas
+scikit-learn
+joblib
+email-validator
+# ===== AI / ML =====
+transformers
+torch
+google-generativeai
+# ===== Frontend (Node.js) =====
+# react
+# vite
+# typescript
+# tailwindcss
+# react-router-dom
+# axios
+# zustand
+# react-hook-form
+# zod
+# react-i18next
+# i18next
+# react-dropzone
+# recharts
